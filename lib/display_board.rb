@@ -10,4 +10,4 @@ end
 
 board = [" "," "," "," ","X"," "," "," "," "]
 
-display_board(#{board[5]})
+display_board("#{board[5]}")
