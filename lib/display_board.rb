@@ -3,7 +3,7 @@
 def display_board(board = 0)
   puts "   |   |   "
   puts "-----------"
-  puts "#{board[0,9]}"
+  puts "#{board[]}"
   puts "-----------"
   puts "   |   |   "
 end
