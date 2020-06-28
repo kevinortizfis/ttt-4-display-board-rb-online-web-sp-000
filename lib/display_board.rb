@@ -10,4 +10,10 @@ end
 
 board = [" "," "," "," ","X","","","",""]
 
-display_board(board)
+showme = display_board(board)
+
+showme
+
+board = ["O"," "," "," "," ","","","",""]
+
+showme
