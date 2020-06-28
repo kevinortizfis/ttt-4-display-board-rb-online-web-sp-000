@@ -8,6 +8,6 @@ def display_board(board)
   puts "   |   |   "
 end
 
-boards = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+boards = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
 
 display_board("#{board}")
