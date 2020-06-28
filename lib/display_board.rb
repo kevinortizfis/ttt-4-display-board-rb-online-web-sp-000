@@ -20,6 +20,12 @@ showme
 
 board = ["X","X","X"," "," ","","","",""]
 
+showme
+
+board = [" "," "," "," "," ","","0","0","0"]
+
+showme
+
 #puts " #{board[0]} " + "| #{board[1]} |" + " #{board[2]} "
 #puts "-----------"
 #puts " #{board(3)} " + "| #{board[4]} |" + " #{board[5]} "
